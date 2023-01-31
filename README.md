@@ -1,4 +1,4 @@
-# co8814d32a2da0916744281aa
+# Learning Journal Website
 
 Quick start:
 
